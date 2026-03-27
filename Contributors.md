@@ -77,7 +77,7 @@ hello ji
 - [Valentinus Gunadi] (https://github.com/veempeelge)
 - [B Pine](https://github.com/B-Pine)
 - [Shivraj](https://github.com/Shiv0087)
-
+- [Swejal Patade](https://github.com/Swejal-13)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
